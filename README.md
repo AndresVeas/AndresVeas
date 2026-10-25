@@ -19,7 +19,7 @@
 ### 🛠️ Tecnologías y Herramientas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,linux,docker,git,github,vscode,idea,postman,bash&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,linux,docker,git,github,vscode,idea,bash&perline=6" />
 </div>
 
 ---
